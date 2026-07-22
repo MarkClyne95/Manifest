@@ -494,8 +494,8 @@
             Key="ActionForm/cndCondition/cbxOpType[Left side must be numerically less or equal to (X ≤ Y)]"
             Translation="数值：L ≤ R" />
         <TranslationEntry
-            Key="ActionForm/cndCondition/cbxOpType[Left side must be numerically less than (X < Y)]"
-            Translation="数值：L < R" />
+            Key="ActionForm/cndCondition/cbxOpType[Left side must be numerically less than (X &lt; Y)]"
+            Translation="数值：L &lt; R" />
         <TranslationEntry
             Key="ActionForm/cndCondition/cbxOpType[Left side must match the regular expression on the right side]"
             Translation="正则：文本 L 与表达式 R 匹配" />
@@ -572,8 +572,8 @@
             Key="ActionForm/cndLoopCondition/cbxOpType[Left side must be numerically less or equal to (X ≤ Y)]"
             Translation="数值：L ≤ R" />
         <TranslationEntry
-            Key="ActionForm/cndLoopCondition/cbxOpType[Left side must be numerically less than (X < Y)]"
-            Translation="数值：L < R" />
+            Key="ActionForm/cndLoopCondition/cbxOpType[Left side must be numerically less than (X &lt; Y)]"
+            Translation="数值：L &lt; R" />
         <TranslationEntry
             Key="ActionForm/cndLoopCondition/cbxOpType[Left side must match the regular expression on the right side]"
             Translation="正则：文本 L 与表达式 R 匹配" />
